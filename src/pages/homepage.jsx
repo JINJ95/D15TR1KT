@@ -6,6 +6,9 @@ export default function Homepage() {
     return (
         <div className="container">
             <Jumbotron title = "D15TR1KT" subtitle = ""/>
+            <Jumbotron title = "" subtitle = ""/>
+            <Jumbotron title = "" subtitle = ""/>
+            <Jumbotron title = "" subtitle = ""/>
         </div>
     )
 }
